@@ -2,14 +2,14 @@
 A REPO WHERE U GET XLICON PLUGINS AND EXTRA MONGODB KEY...
 
 
-<h1 align="center"> Secktor Plugins </h1>
+<h1 align="center"> XLICON-V1 Plugins </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SamPandey001&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl)
+<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW)
   <div align="center"  
 <h4 align="center">Plugins</h1>
 
@@ -191,3 +191,8 @@ https://gist.githubusercontent.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8
 ```
 https://gist.github.com/SamPandey001/3d3c8faef08a33751186dcb56d0790b9/raw
 ```
+<h1 align="center"> Thanks To  SamPandey001
+</h1>
+
+ <br><br>
+
