@@ -191,7 +191,7 @@ https://gist.githubusercontent.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8
 ```
 https://gist.github.com/SamPandey001/3d3c8faef08a33751186dcb56d0790b9/raw
 ```
-<h1 align="center"> Thanks To  SamPandey001
+<h1 align="center"> Thanks To  SamPandey
 </h1>
 
  <br><br>
